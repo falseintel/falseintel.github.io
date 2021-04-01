@@ -1,0 +1,18 @@
+# Created by https://www.toptal.com/developers/gitignore/api/jekyll,vscode
+# Edit at https://www.toptal.com/developers/gitignore?templates=jekyll,vscode
+
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+### vscode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# End of https://www.toptal.com/developers/gitignore/api/jekyll,vscode
