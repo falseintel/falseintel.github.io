@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "THM VulnNet: Node Writeup"
-date: "2021-04-02"
+date: "2021-04-09"
 categories: tryhackme
 ---
 ## Room
