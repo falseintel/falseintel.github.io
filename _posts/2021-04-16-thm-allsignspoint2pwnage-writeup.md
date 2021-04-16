@@ -10,7 +10,7 @@ categories: tryhackme
 
 **Description**: A room that contains a rushed Windows based Digital Sign system. Can you breach it?
 
-**Difficulty**: Easy
+**Difficulty**: No Rating
 
 ## Network Enumeration
 First of all, let's start our initial enumeration of our target using `nmap`.
